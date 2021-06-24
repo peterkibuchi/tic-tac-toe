@@ -13,12 +13,13 @@
 
 
 ## General Information
-- I took on this project as a hands on way of learning the fundamentals of ReactJS.
-- I was able to explore various React concepts including elements, components, props, and state.
+- I took on this project as a hands on way of learning the fundamentals of *ReactJS*.
+- I was able to explore various React concepts including *elements*, *components*, *props*, and *state*.
 
 
 ## Technologies Used
-- ReactJS
+- React
+- HTML & CSS
 
 
 ## Features
